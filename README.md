@@ -1,20 +1,39 @@
 # ClimaVisor
 
 **Project Description**  
-A 3D visualtion of climate change. ALong with weather prediction and a interactive dashboard to show analytics
+ClimaVisor is a 3D visualization of **climate change**, with weather predictions and an **interactive dashboard** to display climate data and analytics.
 
 ---
 
-## How to navigate
-- Open the preview from this link - https://coden-inja.github.io/ClimaVisor/
-- click buttons, search for locations, and other things --- still in progress
-- Some maps will not load location currently (because of incorrect texture), so see it in the initial map itself. That is correct
-- - The time feature is still in works because of lack of future maps
-- Click Header (-ClimaVisor-) for going to Dashboard page
-- There is an Impact calculator at the bottom to calculate CO2 savings
-- In the reports page, there is a sidebar open it to select countries so see their weekly data and climate predictions
-- The sidebar can also used for navigation
+## How to Navigate
 
+- **Open the Preview**:  
+  You can check out the live preview here: [ClimaVisor Preview](https://coden-inja.github.io/ClimaVisor/)
+
+- **Explore the Features**:  
+  - You can **click buttons**, **search for locations**, and try out other features.  
+    (Note: some things are still a work in progress.)
+  
+- **Maps**:  
+  - Some maps might not load locations properly due to **incorrect textures**.  
+    Just check out the **initial map** (which has label **Earth**) for accurate info.
+
+- **Time Feature**:  
+  - The **time feature** is still being worked on since there aren’t future maps available yet.
+
+- **Analytics Box**:  
+  - The **analytics box** is under development and will show static, possibly incorrect data for now.
+
+- **Dashboard**:  
+  - Click the **ClimaVisor header (-ClimaVisor-)** to go to the **Dashboard page**.
+
+- **Impact Calculator**:  
+  - There’s an **Impact Calculator** at the bottom where you can check **CO₂ savings**.
+
+- **Reports Page**:  
+  - The **sidebar** on the Reports page allows you to select countries and see their **weekly data** and **climate predictions**.  
+  - You can also use the sidebar for **navigation**.
 
 ---
 
+Hope you enjoy exploring, and remember, this is still a work in progress so expect some updates soon! 🌍
