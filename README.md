@@ -8,7 +8,7 @@ ClimaVisor is a 3D visualization of **climate change**, with weather predictions
 ## How to Navigate
 
 - **Open the Preview**:  
-  You can check out the live preview here: [ClimaVisor Preview](https://coden-inja.github.io/ClimaVisor/)
+  You can check out the live preview here: [ClimaVisor Preview](https://clima-visor.vercel.app/)
 
 - **Explore the Features**:  
   - You can **click buttons**, **search for locations**, and try out other features.  
